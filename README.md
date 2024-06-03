@@ -3,4 +3,4 @@
 
 A website to highlight some organizations that have been working to make Toronto better.
 
-<img src="https://github.com/Neo-Nafiz/Charities-Toronto/assets/47037404/860d0bd4-edbb-45e2-815b-72b4058cda1c" alt="videodemo" width="600" height="400">
+<img src="https://github.com/Neo-Nafiz/Charities-Toronto/assets/47037404/860d0bd4-edbb-45e2-815b-72b4058cda1c" alt="videodemo" width="300" height="200">
